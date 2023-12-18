@@ -1,0 +1,901 @@
+11th Avenue
+12th Avenue
+13th Avenue
+14th Avenue
+15th Avenue
+16th Avenue
+17th Avenue
+18th Avenue
+19th Avenue
+1st Avenue
+1st Street
+20th Street
+2nd Avenue
+2nd Avenue W
+2nd Street
+3rd Avenue
+3rd Avenue W
+3rd Street
+4th Avenue
+4th Street
+5th Street
+6th Avenue
+6th Avenue W
+7th Avenue
+7th Avenue W
+8th Avenue
+9th Avenue
+Abbotsford Avenue
+Abinger Place
+Abington Avenue
+Abington Avenue E
+Abington Avenue W
+Academy Street
+Adams Street
+Agate Place
+Airport Interchange Street
+Albert Avenue
+Aldine Street
+Alexander Street
+Alleghany Avenue
+Alling Street
+Alyea Street
+Amity Place
+Amsterdam Street
+Ann Street
+Anthony Street
+Ardley Court
+Arlington Avenue
+Arlington Street
+Arsdale Place
+Arthur S Coles Sr Plaza
+Ashby Lane
+Ashland Street
+Astor Street
+Atlantic Street
+Austin Street
+Avenue A
+Avenue A Avenue
+Avenue B
+Avenue B Avenue
+Avenue C
+Avenue I
+Avenue K
+Avenue L
+Avenue P
+Avon Avenue
+Backus Street
+Badger Avenue
+Baldwin Avenue
+Baldwin Street
+Ballantine Pkwy
+Bank Street
+Barbara Street
+Barclay Street
+Bathgate Place
+Bayard Place
+Bayview Avenue
+Beach Street
+Beacon Street
+Beaman Plaza
+Beardsley Avenue
+Beaumont Place
+Beaver Street
+Bedford Street
+Beecher Street
+Belgium Street
+Bellair Place
+Belmont Avenue
+Belmont Terrace
+Bergen Street
+Berkeley Avenue
+Berlin Street
+Bertha Court
+Beverly Street
+Birks Place
+Bishop Chandler Owens Plaza
+Bishop Howard Smith Plaza
+Bishop Parrott Plaza
+Blanchard Street
+Bleeker Street
+Bloomfield Avenue
+Bloomfield Place
+Blum Street
+Bock Avenue
+Bond Street
+Boston Court
+Boston Street
+Boyd Street
+Boyden Street
+Boylan Street
+Bragaw Avenue
+Branch Brook Place
+Branford Place
+Branford Street
+Brenner Street
+Brewster Road
+Bridge Street
+Bright Court
+Brill Street
+Brinsmaid Place
+Broad Street
+Broadway
+Brookdale Avenue
+Broome Street
+Bruce Street
+Bruen Street
+Brunswick Street
+Bryant Street
+Buffington Street
+Burnet Street
+Cabinet Street
+Calcutta Street
+Caldwell Place
+Callahan Court
+Calumet Street
+Camden Street
+Cameron Road
+Camp Alley
+Camp Street
+Campbell Street
+Carmella Court
+Carolina Avenue
+Carrington Street
+Carteret Street
+Cathedral Court
+Catherine Street
+Cedar Avenue
+Cedar Street
+Center Street
+Center Terrace
+Central Avenue
+Chadwick Avenue
+Chambers Street
+Chancellor Avenue
+Chapel Court
+Chapel Street
+Chapman Street
+Charlton Street
+Chelsea Avenue
+Chelsea Drive
+Cherry Street
+Chester Avenue E
+Chestnut Place
+Chestnut Street
+Christie Street
+Church Terrace
+Churchman Street
+City Dock Street
+Clara Maass Drive
+Clarion Lane
+Clark Street
+Clay Street
+Cleveland Avenue
+Cliff Hill Place
+Cliff Street
+Clifford Street
+Clifton Avenue
+Clifton Street
+Clinton Avenue
+Clinton Place
+Clinton Street
+Clipper Street
+Clover Street
+Coastal Street
+Coeyman Street
+Colden Street
+Colgate Drive
+Colleen Street
+Colonnade Place
+Columbia Avenue
+Columbia Street
+Commerce Court
+Commerce Street
+Commonwealth Avenue
+Concord Street
+Congress Street
+Corbin Street
+Cornelia Street
+Cornerstone Lane
+Cortland Place
+Cortland Street
+Cossio Drive
+Cottage Street
+Court Street
+Crane Street
+Craneway Street
+Crawford Street
+Crescent Avenue
+Crescent Court
+Crittenden Street
+Crown Street
+Custer Avenue
+Custer Place
+Cutler Street
+Cypress Street
+Dandridge Drive
+Dandridge Way
+Darcy Street
+Dassing Avenue
+Davenport Avenue
+Dawson Street
+Dayton Place
+Dayton Street
+Dayton Terrace
+Degraw Avenue
+Delancey Street
+Delavan Avenue
+Delavan Avenue W
+Delavan Place
+Delvin Avenue
+Demarest Street
+Denbigh Street
+Dewey Street
+Dey Street
+Dickerson Street
+Dillard Court
+Distribution Street
+Division Street
+Doby Place
+Dodd Alley
+Don King Plaza
+Doremus Avenue
+Dover Street
+Downing Street
+Dr Martin Luther King Jr Boulevard
+Duryea Street
+E Alpine Street
+E Bigelow Street
+E Kinney Place
+E Kinney Street
+E Mill Street
+E Park Street
+E Peddie Street
+E Runyon Street
+E Sylvan Avenue
+Eagles Pkwy
+Eagles Street
+Earl Street
+Eastern Pkwy
+Eaton Place
+Eckert Avenue
+Edison Place
+Edmonds Place
+Education Way
+Edwin Place
+Elizabeth Avenue
+Ellery Avenue
+Elliott Street
+Elm Road
+Elm Street
+Elwood Avenue
+Elwood Avenue E
+Elwood Place
+Emerson Place
+Emmet Street
+Empire Street
+Essex Street
+Esther Street
+Euclid Avenue
+Evergreen Avenue
+Evergreen Lane
+Export Street
+Fabyan Place
+Fairmount Avenue
+Faith Court
+Farley Avenue
+Federal Square
+Fenwick Street
+Ferdinand Street
+Ferdon Street
+Ferguson Street
+Ferry Street
+Fessenden Place
+Field Place
+Fillmore Street
+Finlay Place
+Firmench Way
+Fleetwood Place
+Fleming Avenue
+Floral Avenue
+Florence Place
+Forest Hill Pkwy
+Forest Place
+Fortuna Street
+Foster Street
+Foundry Street
+Franklin Avenue
+Franklin Street
+Freeman Street
+Frelinghuysen Avenue
+Frontage Road
+Fulton Street
+Garden Street
+Gareis Street
+Garibaldi Avenue
+Garrison Street
+Garside Street
+George Street
+Gillette Place
+Girard Place
+Gladstone Avenue
+Goble Street
+Gold Street
+Goldsmith Avenue
+Goodwin Avenue
+Gotthardt Street
+Gould Avenue
+Gould Place
+Gouverneur Street
+Governor Street
+Grafton Avenue
+Grain Street
+Grand Avenue
+Grant Avenue
+Grant Street
+Gray Street
+Green Street
+Greenwood Lake Street
+Grove Street
+Grove Terrace
+Grover C Wilcox Plaza
+Grumman Avenue
+Hackett Street
+Halleck Street
+Halsey Street
+Halstead Street
+Hamilton Street
+Hampden Street
+Hanford Street
+Hanover Street
+Hansbury Avenue
+Harding Terrace
+Harper Street
+Hartford Street
+Harvey Street
+Hawkins Court
+Hawkins Street
+Hawthorne Avenue
+Hawthorne Place
+Hayes Street
+Haynes Avenue
+Hazel Place
+Hazelwood Avenue
+Hecker Street
+Hedden Terrace
+Helen Place
+Heller Pkwy
+Hemlock Place
+Hennessey Street
+Hensler Street
+Herbert Place
+Herbert Street
+Hermon Street
+Highland Avenue
+Hill Street
+Hillside Avenue
+Hillside Terrace
+Hinsdale Place
+Hobson Street
+Holiday Court
+Holland Street
+Homestead Park
+Honiss Place
+Hopkins Place
+Horatio Court
+Horatio Street
+Houston Street
+Howard Court
+Howard Street
+Howell Place
+Hoyt Street
+Hudson Street
+Humboldt Street
+Hunter Street
+Hunterdon Street
+Huntington Terrace
+Hyatt Avenue
+Ingraham Place
+Interstate 280
+Interstate 78
+Interstate 95
+Irvin Way
+Irvine Turner Boulevard
+Irving Avenue
+Irving Street
+Irvington Avenue
+Isabella Avenue
+Ivy Street
+Jabez Street
+Jackson Street
+Jacob Street
+James Street
+Jay Street
+Jefferson Street
+Jelliff Avenue
+Jennie Court
+Jersey Street
+Johnson Avenue
+Johnson Street
+Jones Street
+Joseph Street
+Kearny Street
+Keer Avenue
+Kellogg Street
+Kenmore Avenue
+Kent Street
+Kerrigan Boulevard
+Kipp Street
+Kitchell Place
+Kitchell Street
+Komorn Street
+Kossuth Street
+Krueger Court
+Lackawanna Avenue
+Lafayette Street
+Lake Street
+Lanark Avenue
+Lang Street
+Laurel Place
+Lawton Street
+Learning Lane
+Legal Street
+Lehigh Avenue
+Lenox Street
+Lentz Avenue
+Leo Place
+Leslie Street
+Lexington Street
+Libella Court
+Liberty Street
+Library Court
+Lincoln Avenue
+Lincoln Park
+Lincoln Street
+Linden Avenue
+Linden Street
+Lindsley Avenue
+Lisa Court
+Lister Avenue
+Little Street
+Littleton Avenue
+Livingston Street
+Lock Street
+Lockwood Street
+Lombardy Place
+Lombardy Street
+Longfellow Avenue
+Longworth Street
+Loretto Street
+Lowell Place
+Ludlow Place
+Ludlow Street
+Lyons Avenue
+Madison Avenue
+Madison Place
+Madison Street
+Magazine Street
+Magnolia Street
+Mahogany Court
+Main Street
+Majors Road
+Malvern Street
+Manchester Place
+Manor Drive
+Manufacturers Place
+Mapes Avenue
+Mapes Place
+Mapes Terrace
+Maple Avenue
+Maple Place
+Maracaibo Street
+Margaretta Street
+Marie Place
+Marion Avenue
+Marion Place
+Market Street
+Marlin Street
+Marne Street
+Marrow Street
+Marsac Place
+Marsh Street
+Martens Avenue
+Martin Luther King Jr Boulevard
+Mary Street
+Matthews Drive
+May Street
+Maybaum Avenue
+Mc Carter Highway
+Mc Clellan Street
+Mc Gregor Avenue
+McCarter Highway
+McKay Avenue
+McLain Street
+McWhorter Street
+Mead Street
+Meeker Avenue
+Melrose Avenue
+Mercer Court
+Mercer Street
+Merchant Place
+Merchant Street
+Midland Place
+Mildred Helms Place
+Milford Avenue
+Miller Street
+Millington Avenue
+Mitchell Place
+Mohawk Street
+Monmouth Street
+Monroe Street
+Montclair Avenue
+Monteith Avenue
+Montgomery Avenue
+Montgomery Street
+Monticello Avenue
+Montrose Street
+Morris Avenue
+Mott Street
+Mount Olivet Avenue
+Mount Pleasant Avenue
+Mount Prospect Avenue
+Mount Prospect Place
+Mount Vernon Place
+Mountain View Avenue
+Mountain View Place
+Mt Prospect Avenue
+Mt Vernon Pl E
+Muhammad Ali Avenue
+Muhamned Ali Boulevard
+Mulberry Street
+Mulberry Street Exd
+Mulford Place
+Murray Street
+Myrtle Alley
+Myrtle Avenue
+N 10th Street
+N 11th Street
+N 12th Street
+N 13th Street
+N 14th Street
+N 2nd Street
+N 5th Street
+N 6th Street
+N 7th Street
+N 8th Street
+N 9th Street
+N Cedar Lane
+N End Terrace
+N Hawthorne Lane
+N J RR Avenue
+N Magnolia Lane
+N Munn Avenue
+N Pine Lane
+Nairn Place
+Napoleon Street
+Navy Street
+Nelson Place
+Neptune Street
+Nesbitt Street
+Netherwood Place
+Nevada Street
+New Fairview Avenue
+New Jersey RR Avenue
+New Jersey Railroad Avenue
+New Jersey Tpke
+New Street
+New York Avenue
+Newark International Airport Street
+Newark Street
+Newton Street
+Niagara Street
+Nichols Street
+Noble Street
+Noll Place
+Norfolk Street
+Norman Road
+Norwood Place
+Norwood Street
+Nursery Street
+Nuttman Street
+Nye Avenue
+Oak Street
+Oakland Terrace
+Ogden Street
+Old Road To Bloomfield
+Oliver Street
+Orange Street
+Oraton Street
+Orchard Street
+Oriental Place
+Oriental Street
+Osborne Terrace
+Oxford Street
+Pacific Street
+Palm Street
+Panama Street
+Paris Street
+Park Avenue
+Park Place
+Parker Street
+Parkhurst Street
+Parkside Place
+Parkview Terrace
+Passaic Street
+Paterson Street
+Patten Place
+Peabody Place
+Pearl Street
+Peat Street
+Peck Avenue
+Peerless Place
+Pennington Street
+Pennsy Place
+Pennsylvania Avenue
+Perez Drive
+Pershing Avenue
+Peshine Avenue
+Pierce Street
+Pine Grove Terrace
+Plymouth Street
+Poe Avenue
+Poinier Street
+Polk Street
+Pomona Avenue
+Port Street
+Porter Avenue
+Porter Place
+Prince Street
+Prospect Street
+Providence Street
+Pulaski Street
+Putnam Street
+Queen Street
+Quitman Street
+Randolph Place
+Rankin Street
+Raymond Boulevard
+Raymond Plaza E
+Raymond Plaza W
+Read Street
+Rector Street
+Reeves Place
+Renner Avenue
+Rev William O Watley Plaza
+Reynolds Place
+Richards Street
+Richelieu Place
+Richelieu Terrace
+Richmond Street
+Ricord Street
+Rider Court
+Ridge Street
+Ridgewood Avenue
+River Street
+Riverside Avenue
+Riverside Court
+Riverside Mews
+Riverview Court
+Riverview Place
+Riverview Terrace
+Roanoke Avenue
+Roanoke Court
+Roberts Avenue
+Rockland Terrace
+Rodwell Avenue
+Romaine Place
+Rome Street
+Ropes Place
+Rose Avenue
+Rose Street
+Rose Terrace
+Roseville Avenue
+Ross Street
+Rowland Street
+Rowley Street
+Rte 508
+Rte 509
+Rte 510
+Rte 577
+Ruby Place
+Ruggerio Plaza
+Runiak Avenue
+Rutgers Drive
+Rutherford Street
+S 10th Street
+S 11th Street
+S 12th Street
+S 13th Street
+S 14th Street
+S 15th Street
+S 16th Street
+S 17th Street
+S 18th Street
+S 19th Street
+S 20th Street
+S 6th Street
+S 7th Street
+S 8th Street
+S 9th Street
+S Cedar Lane
+S Devine Street
+S Hawthorne Lane
+S Linden Avenue
+S Munn Avenue
+S Orange Avenue
+S Pine Lane
+Saint Charles Street
+Saint Francis Street
+Saint James Place
+Saint Paul Avenue
+Salem Street
+Sandford Avenue
+Sanford Avenue
+Sanford Place
+Sarah Vaughn Place
+Sayre Street
+Schalk Street
+Scheerer Avenue
+Schley Street
+School Street
+Schuyler Avenue
+Schuyler Place
+Schuyler Street
+Scofield Street
+Scott Street
+Seabury Court
+Seabury Street
+Searing Street
+Selvage Street
+Seth Boyden Terrace
+Seton Hall Drive
+Seymour Avenue
+Shanley Avenue
+Shaw Avenue
+Sheffield Drive
+Sheldon Terrace
+Shephard Avenue
+Sherman Avenue
+Shipman Street
+Silver Street
+Smith Street
+Somerset Street
+Somme Street
+South Street
+Speedway Avenue
+Spencer Street
+Spring Street
+Springdale Avenue
+Springfield Avenue
+Spruce Street
+Stanton Street
+Star Ledger Plaza
+Starboard Street
+State Route 21
+State Route 27
+State Street
+Stecher Street
+Stengel Avenue
+Stockton Street
+Stone Street
+Stratford Place
+Stuyvesant Avenue
+Summer Avenue
+Summer Place
+Summit Avenue
+Summit Street
+Sumo Village Court
+Sunset Avenue
+Sussex Avenue
+Sylvan Avenue
+Synott Place
+Taylor Street
+Telford Street
+Terminal A
+Terminal B
+Thomas Street
+Thorne Street
+Thornton Street
+Tichener Lane
+Tichenor Street
+Tiffany Boulevard
+Tillinghast Street
+Toler Place
+Tompkins Point Road
+Treacy Avenue
+Treadwell Street
+Treat Place
+Tremont Avenue
+Triton Place
+Triton Terrace
+Tuxedo Pkwy
+Tyler Street
+US Highway 1
+US Highway 1 Truck
+US Highway 9
+Underwood Street
+Union Street
+Unity Avenue
+University Avenue
+Vail Street
+Vailsburg Terrace
+Valley Street
+Valsumo Lane
+Van Buren Street
+Van Duyne Street
+Van Ness Place
+Van Vechten Street
+Van Velsor Place
+Van Wagenen Street
+Vanderpool Street
+Varsity Court
+Varsity Road
+Vassar Avenue
+Vaughan Drive
+Vermont Avenue
+Vernon Avenue
+Verona Avenue
+Vesey Street
+Victoria Avenue
+Victoria Street
+Village Place
+Vincent Court
+Vincent Street
+Vine Street
+Virginia Street
+Voorhees Street
+W Alpine Street
+W Bigelow Street
+W End Avenue
+W End Road
+W Kinney Street
+W Market Street
+W Park Street
+W Peddie Street
+W Runyon Street
+Wainwright Street
+Wakeman Avenue
+Wall Street
+Walnut Street
+Warren Place
+Warren Street
+Warwick Street
+Washington Park
+Washington Place
+Washington Street
+Watchung Avenue
+Watson Avenue
+Waverly Avenue
+Waydell Street
+Webster Street
+Weequahic Avenue
+West Street
+Westbrooks Avenue
+Westend Avenue
+Wharton Street
+Wheeler Point Road
+White Terrace
+Whitney Street
+Whittier Place
+Wicker Court
+Wickliffe Street
+Wilbur Avenue
+Wilburton Place
+William Street
+Willoughby Street
+Wilnora Holman Way
+Wilsey Street
+Wilson Avenue
+Winans Avenue
+Winthrop Street
+Wolcott Terrace
+Wood Street
+Woodbine Avenue
+Woodland Avenue
+Woodside Alley
+Woodside Avenue
+Woodside Place
+Wright Street
+Wyndmoor Avenue
+Yancy Drive
+Yates Avenue

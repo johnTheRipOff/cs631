@@ -1,0 +1,249 @@
+Aciclovir
+Acrivastine
+Adalimumab
+Alendronic acid
+Allopurinol
+Alogliptin
+Amitriptyline
+Amlodipine
+Amoxicillin
+Anastrozole
+Apixaban
+Aripiprazole
+Aspirin
+Atenolol
+Atorvastatin
+Azathioprine
+Azithromycin
+Baclofen
+Beclometasone
+Bendroflumethiazide
+Benzoyl peroxide
+Benzydamine
+Betahistine
+Betamethasone
+Bimatoprost
+Bisacodyl
+Bisoprolol
+Brinzolamide
+Budesonide
+Bumetanide
+Buprenorphine
+Buscopan
+Calcipotriol
+Candesartan
+Carbamazepine
+Carbimazole
+Carbocisteine
+Carmellose sodium
+Carvedilol
+Cefalexin
+Cetirizine
+Champix
+Chloramphenicol
+Chlorhexidine
+Chlorphenamine
+Cinnarizine
+Ciprofloxacin
+Citalopram
+Clarithromycin
+Clobetasol
+Clobetasone
+Clonazepam
+Clonidine
+Clopidogrel
+Clotrimazole
+Co-amoxiclav
+Co-beneldopa
+Co-careldopa
+Co-codamol
+Co-dydramol
+Coal tar
+Codeine
+Colchicine
+Colecalciferol
+Contraceptive injections
+Cyanocobalamin
+Cyclizine
+Dabigatran
+Dapagliflozin
+Dexamethasone
+Diazepam
+Diclofenac
+Digoxin
+Dihydrocodeine
+Diltiazem
+Diphenhydramine
+Dipyridamole
+Docusate
+Domperidone
+Donepezil
+Dosulepin
+Doxazosin
+Doxycycline
+Duloxetine
+Edoxaban
+Empagliflozin
+Enalapril
+Eplerenone
+Erythromycin
+Escitalopram
+Esomeprazole
+Ezetimibe
+Felodipine
+Fentanyl
+Ferrous fumarate
+Ferrous sulfate
+Fexofenadine
+Finasteride
+Flucloxacillin
+Fluconazole
+Fluoxetine
+Fluticasone
+Folic acid
+Furosemide
+Fusidic acid
+Fybogel
+Gabapentin
+Gaviscon
+Gliclazide
+Glimepiride
+Glyceryl trinitrate
+Haloperidol
+Heparinoid
+Hormone replacement therapy
+Hydrocortisone
+Hydroxocobalamin
+Hydroxychloroquine
+Hyoscine hydrobromide
+Ibuprofen
+Indapamide
+Insulin
+Irbesartan
+Isosorbide mononitrate
+Isosorbide dinitrate
+Isotretinoin
+Ketoconazole
+Labetalol
+Lactulose
+Lamotrigine
+Lansoprazole
+Latanoprost
+Lercanidipine
+Letrozole
+Levetiracetam
+Levothyroxine
+Lidocaine
+Linagliptin
+Lisinopril
+Lithium
+Loperamide
+Loratadine
+Lorazepam
+Losartan
+Low-dose aspirin
+Lymecycline
+Macrogol
+Mebendazole
+Mebeverine
+Medroxyprogesterone
+Melatonin
+Memantine
+Mesalazine
+Metformin
+Methadone
+Methotrexate
+Methylphenidate
+Metoclopramide
+Metoprolol
+Metronidazole
+Mirabegron
+Mirtazapine
+Molnupiravir
+Mometasone
+Mometasone nasal spray
+Montelukast
+Morphine
+Naproxen
+Nefopam
+Nicorandil
+Nifedipine
+Nitrofurantoin
+Nortriptyline
+Nystatin
+Oestrogen
+Olanzapine
+Olmesartan
+Omeprazole
+Oxybutynin
+Oxycodone
+Pantoprazole
+Paracetamol
+Paroxetine
+Paxlovid
+Peppermint oil
+Pepto-Bismol
+Perindopril
+Phenoxymethylpenicillin
+Phenytoin
+Pioglitazone
+Pravastatin
+Pre-Exposure Prophylaxis
+Prednisolone
+Pregabalin
+Prochlorperazine
+Progesterone
+Promethazine
+Propranolol
+Pseudoephedrine
+Quetiapine
+Rabeprazole
+Ramipril
+Ranitidine
+Remdesivir
+Risedronate
+Risperidone
+Rivaroxaban
+Ropinirole
+Rosuvastatin
+Salbutamol inhaler
+Saxagliptin
+Senna
+Sertraline
+Sildenafil
+Simeticone
+Simvastatin
+Sitagliptin
+Sodium cromoglicate
+Sodium valproate
+Solifenacin
+Sotalol
+Sotrovimab
+Spironolactone
+Sulfasalazine
+Sumatriptan
+Tadalafil
+Tamsulosin
+Temazepam
+Terbinafine
+Thiamine
+Tibolone
+Ticagrelor
+Timolol
+Tiotropium inhalers
+Tolterodine
+Topiramate
+Tramadol
+Tranexamic acid
+Trastuzumab
+Trazodone
+Trimethoprim
+Vaginal oestrogen
+Valproic acid
+Valsartan
+Varenicline
+Venlafaxine
+Verapamil
+Warfarin
+Zolpidem
+Zopiclone
