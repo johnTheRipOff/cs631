@@ -1,2 +1,1 @@
-# cs631
-Final Project
+# cs631 Final Project
