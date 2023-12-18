@@ -1,0 +1,17 @@
+{% extends 'example_app/base.html' %}
+
+{% block title %}Consulation Information{% endblock %}
+
+{% block content %}
+<p>Please use the following form to input Consulation information.</p>
+<form action="{% url 'consultationScheduler' %}" method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <input type="submit" value="Submit">
+</form>
+<!--
+<script> 
+    flatpickr("#id_start_time", {enableTime: true, dateFormat: "Y-m-d H:i"}); 
+</script>
+-->
+{% endblock %}  

@@ -1,0 +1,13 @@
+{% extends 'example_app/base.html' %}
+
+{% block title %}Staff Information{% endblock %}
+
+{% block content %}
+<p>Please use the following form to input staff member information.</p>
+<form action="{% url 'staffDirectory' %}" method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <input type="submit" value="Submit">
+</form>
+{% endblock %}  
+

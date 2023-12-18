@@ -1,0 +1,12 @@
+{% extends 'example_app/base.html' %}
+
+{% block title %}doctorScheduler Information{% endblock %}
+
+{% block content %}
+<p>Please use the following form to input doctorScheduler information.</p>
+<form action="{% url 'doctorScheduler' %}" method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <input type="submit" value="Submit">
+</form>
+{% endblock %}  
