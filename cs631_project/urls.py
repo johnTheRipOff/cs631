@@ -1,6 +1,6 @@
 from django.contrib import admin
 from django.urls import include, path
-from patient.views import PaitentViewSet, ConsultationViewSet
+from patient.views import *
 
 
 
